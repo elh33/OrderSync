@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 22
+Class-Path: mysql-connector-java-8.0.26.jar protobuf-java-3.11.4.jar jac
+ kson-databind-2.12.3.jar jackson-annotations-2.12.3.jar jackson-core-2.
+ 12.3.jar
+Main-Class: ma.ensa.OrderSync.App
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "date": "2024-12-01",
+        "amount": 250.50,
+        "customerId": 101
+    },
+    {
+        "id": 2,
+        "date": "2024-12-02",
+        "amount": 500.00,
+        "customerId": 102
+    },
+    {
+        "id": 3,
+        "date": "2024-12-03",
+        "amount": 75.00,
+        "customerId": 999  // Cet ID client n'existe pas, devrait aller dans error.json
+    }
+]
